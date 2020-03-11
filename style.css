@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+.content
+{
+    width: 860px;
+    height: 1214px;
+    margin: 100px auto;
+    overflow: hidden;
+}
+.content img
+{
+    transition: 2s;
+    
+}
+.content:hover img
+{
+    transform: scale(1.5);
+}
